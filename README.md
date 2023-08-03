@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @charan2475
-- 👀 I’m interested in Data Science 
+- 👋 Hi, I’m charan mothukuri
+- 👀 I’m interested in Python, Java, DSA, Machine Learning, Natural Language Processing. 
 - 🌱 I’m currently studying Btech computer Science 
 - 📫 I'm currently studying in Kalasalingam University 
 
