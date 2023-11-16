@@ -1,3 +1,4 @@
+![logo](https://github.com/charan2475/charan2475/blob/main/github_background.png)
 <h1 align="center">Hi 👋, I'm Charan Kumar Mothukuri</h1>
 <h3 align="center">🚀 Passionate about Programming and Problem Solving.</h3>
 
